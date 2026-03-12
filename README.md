@@ -85,7 +85,7 @@ Machine learning project for breast cancer prediction using Random Forest, with 
 ## Technical direction
 
 **Languages**  
-C, TypeScript, Python, SQL, Java
+C, TypeScript, Python, SQL, JavaScript, Css
 
 **Product engineering**  
 Next.js, React, Node.js, Prisma, SQLite, Zod, REST APIs
